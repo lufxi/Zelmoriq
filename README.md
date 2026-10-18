@@ -6,7 +6,7 @@
 
 **A college notes-sharing portal where HOD-verified teachers publish and students find, rate and download.**
 
-[![PHP lint](https://github.com/YOUR-USERNAME/zelmoriq/actions/workflows/php-lint.yml/badge.svg)](https://github.com/YOUR-USERNAME/zelmoriq/actions)
+[![PHP lint](https://github.com/lufxi/zelmoriq/actions/workflows/php-lint.yml/badge.svg)](https://github.com/lufxi/zelmoriq/actions)
 [![PHP](https://img.shields.io/badge/PHP-8.0%2B-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-10.4%2B-4479A1?logo=mysql&logoColor=white)](https://mariadb.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-3d3ae6.svg)](LICENSE)
@@ -83,7 +83,7 @@ flowchart LR
 
 ```bash
 # 1. Get the code into your web root (XAMPP: C:\xampp\htdocs)
-git clone https://github.com/YOUR-USERNAME/zelmoriq.git
+git clone https://github.com/lufxi/zelmoriq.git
 cd zelmoriq
 
 # 2. Create your local config

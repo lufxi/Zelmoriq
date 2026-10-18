@@ -39,13 +39,13 @@ git add .
 git status
 git commit -m "Initial release: Zelmoriq 1.0.0"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/zelmoriq.git
+git remote add origin https://github.com/lufxi/zelmoriq.git
 git push -u origin main
 ```
 Run `git status` before committing and confirm `config/config.php` is **not** listed. On the first push, a browser window asks you to sign in.
 
 ### 5. Replace the placeholders
-Search the project (`Ctrl+Shift+F`) for `YOUR-USERNAME` and replace it with your GitHub username, in `README.md` and any other file. Commit and push again:
+Search the project (`Ctrl+Shift+F`) for `lufxi` and replace it with your GitHub username, in `README.md` and any other file. Commit and push again:
 ```
 git add . && git commit -m "Set GitHub username" && git push
 ```
