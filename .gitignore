@@ -1,0 +1,23 @@
+# --- Secrets and local configuration
+config/config.php
+.env
+
+# --- User uploads (keep the folders and their .htaccess protection only)
+uploads/photos/*
+uploads/notes/*
+uploads/certificates/*
+!uploads/photos/.gitkeep
+!uploads/notes/.gitkeep
+!uploads/certificates/.gitkeep
+!uploads/.htaccess
+!uploads/notes/.htaccess
+!uploads/certificates/.htaccess
+
+# --- Editors, OS, logs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.zip
+node_modules/

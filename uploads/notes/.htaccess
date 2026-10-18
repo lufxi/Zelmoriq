@@ -1,0 +1,2 @@
+# Notes and certificates are served only through download.php / file.php (login + role checks)
+Require all denied

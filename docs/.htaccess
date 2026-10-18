@@ -1,0 +1,2 @@
+# docs are for GitHub readers; block web access to them on a live server
+Require all denied
